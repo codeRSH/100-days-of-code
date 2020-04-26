@@ -15,5 +15,5 @@
 
 **Thoughts**: I know tutorials don't count here, but still I want to learn git so be it. And it's a short tutorial so hopefully we will be done in a week. 
 
-**Link(s) to work**: Git Tutorial here: [Learn Git] (https://github.com/codeRSH/learngit) 
+**Link(s) to work**: Git Tutorial here: [Learn Git](https://github.com/codeRSH/learngit) 
 
