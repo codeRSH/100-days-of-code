@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 26 April, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (4 Pomodoros) of Data Science related topics (Python, R, Statistics, ML etc) and then post progress here. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I have been studying DS on and off for past 2 months. But haven't been able to put my body mind and soul to it. It's time to quit this amateurish stance and really start learning. I have tried this challenge twice earlier but failed, hope I am successful this time. I also understand that this is not really the main aim of this challenge (100 days of *code*). But if I am able to study at least 2 hours daily for next 100 days, then I will have the amount of knowledge to do *code* challenge for next 100 days. If you are reading this, wish me luck!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** I will be posting my progress at [Data Science](https://github.com/codeRSH/Data-Science )
 
 
-### Day 1: June 27, Monday
+### Day 1: 27 April 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Beside Data Science, I am also I'm learning git through http://gitimmersion.com/ site. Have completed till Lab 23 today.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I know tutorials don't count here, but still I want to learn git so be it. And it's a short tutorial so hopefully we will be done in a week. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: Git Tutorial here: [Learn Git] (https://github.com/codeRSH/learngit) 
+
