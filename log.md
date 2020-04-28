@@ -17,3 +17,19 @@
 **Thoughts**: I know tutorials don't count here, but still I want to learn git so be it. And it's a short tutorial so hopefully we will be done in a week. And regarding the statistics, I resolve even more to study at least 2 hours. Let's go!
 
 **Link(s) to work**: Git Tutorial here: [Learn Git](https://github.com/codeRSH/learngit)
+
+### Day 2: 28 April 2020
+
+**Today's Progress**: I studied about Probability (Conditional probability, Venn Diagram, Probability Distribution etc.). I also practiced numericals on paper and on Excel. Spent total 10 Pomodoros on Studay today. Spent additional 1 Pomodoro on Learning Git. Hopefully will complete that by this weekend. Already have next 'side project learning' ready.
+
+**Thoughts**: The part of updating the notes along with studying did slow me down. I am not sure if that's the correct approach to learn. May be will change tactics in coming days if required. Feeling tired after studying for 10 Pomodors. Hopefully will get used to long hours of continous focus.
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 3: 29 April 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
