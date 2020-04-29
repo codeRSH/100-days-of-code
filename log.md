@@ -28,6 +28,14 @@
 
 ### Day 3: 29 April 2020
 
+**Today's Progress**: Completed the Central Limit Theorem and some other theorem about the Discreet and Continuous Distributions. Used 7 Pomodors along with 1 Pomodoro to learn Git.
+
+**Thoughts**: Not as fantastic as yesterday but I can be excused for not being able to concentrate fully today due to anniversary and one of my favorite actors dying. It was just a roller coaster of emotions I had to experience today.
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 4: 30 April 2020
+
 **Today's Progress**:
 
 **Thoughts**:
