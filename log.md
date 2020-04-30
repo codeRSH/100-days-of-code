@@ -4,7 +4,7 @@
 
 ### Day 0: 26 April 2020
 
-**Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (4 Pomodoros) of Data Science related topics (Python, R, Statistics, ML etc) and then post progress here.
+**Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (5 Pomodoros) of Data Science related topics (Python, R, Statistics, ML etc) and then post progress here.
 
 **Thoughts**: I have been studying DS on and off for past 2 months. But haven't been able to put my body mind and soul to it. It's time to quit this amateurish stance and really start learning. I have tried this challenge twice earlier but failed, hope I am successful this time. I also understand that this is not really the main aim of this challenge (100 days of *code*). But if I am able to study at least 2 hours daily for next 100 days, then I will have the amount of knowledge to do *code* challenge for next 100 days. If you are reading this, wish me luck!
 
@@ -35,6 +35,22 @@
 **Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 4: 30 April 2020
+
+**Today's Progress**: Completed 7 Pomodoros for Statitics (Studied Central Limit Theorem and Hypothesis Testing Theory ) along with 1 Pomodoro of Git. Git is finished.
+
+**Thoughts**: Now that Git is finished, I will primarily focus on studying Statistics for next couple of days (may be just review Git a bit). Afterwards plan is to restart learning Python and finishing that tutorial.
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 5: 1 May 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 6: 1 May 2020
 
 **Today's Progress**:
 
