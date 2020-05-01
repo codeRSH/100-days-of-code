@@ -44,13 +44,13 @@
 
 ### Day 5: 1 May 2020
 
-**Today's Progress**:
+**Today's Progress**: Completed 5 Pomodoros for Stats (Studied Hypothesis testing formulae). Also studied quite a bit extra but didn't time that through pomodoro today.
 
-**Thoughts**:
+**Thoughts**: While making fairly good progress, I feel that I am just palying catchup by starting later in the day and thus having to study at the end of the day quite late at night sometimes. I will try to start earliy fromo tomorrow. Let's see how it goes.
 
 **Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 6: 1 May 2020
+### Day 6: 2 May 2020
 
 **Today's Progress**:
 
