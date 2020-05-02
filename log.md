@@ -52,6 +52,30 @@
 
 ### Day 6: 2 May 2020
 
+**Today's Progress**: Did only 2 Pomodors today but overall studied Stats for over 2 hours (Practiced Hypothesis Testing Numericals).
+
+**Thoughts**: Pomodoro fatigue seems to be setting in. The novelty is wearing off, so I must double down from tomorrow.
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 7: 3 May 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 8: 4 May 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
+
+### Day 9: 5 May 2020
+
 **Today's Progress**:
 
 **Thoughts**:
