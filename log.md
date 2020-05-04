@@ -60,17 +60,17 @@
 
 ### Day 7: 3 May 2020
 
-**Today's Progress**:
+**Today's Progress**: Today was a disappointment just couldn't study anyting today.
 
-**Thoughts**:
+**Thoughts**: Just felt tired throught the day but I am not letting that be my 'break' in this chain. I will be back tomorrow stronger.
 
 **Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 8: 4 May 2020
 
-**Today's Progress**:
+**Today's Progress**: Today I completed 5 Pomodoros worth of learning Tableau. Tableau seems interesting but I have just scratched the surface it seems.
 
-**Thoughts**:
+**Thoughts**: Wasn't that great a day because I had higher expectation but I will still take it because it was better than yesterday and I completed what's expected of me the least. Will try better tomorrow.
 
 **Link(s) to work**: Stats updates posted here [Data Science](https://github.com/codeRSH/Data-Science )
 
