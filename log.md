@@ -18,11 +18,11 @@
 
 **Link(s) to work**: [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 2:
+### Day 2: 9 June 2020
 
-**Today's Progress**: I studied about Probability (Conditional probability, Venn Diagram, Probability Distribution etc.). I also practiced numericals on paper and on Excel. Spent total 10 Pomodoros on Studay today. Spent additional 1 Pomodoro on Learning Git. Hopefully will complete that by this weekend. Already have next 'side project learning' ready.
+**Today's Progress**: Complete the Python Tutorial today!! A pat on the back :)
 
-**Thoughts**: The part of updating the notes along with studying did slow me down. I am not sure if that's the correct approach to learn. May be will change tactics in coming days if required. Feeling tired after studying for 10 Pomodors. Hopefully will get used to long hours of continous focus.
+**Thoughts**: While not sure what I really learned from it, probably I just got a 'taste' of Python from the Tutorial. But I am glad I was able to finish it since it's been pending for far too long. Now starting ML from tomorrow onwards. Hope it's a great journey overall. Will also be 'really' learning Python by actually coding a bit from tomorrow.
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
