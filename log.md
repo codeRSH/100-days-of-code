@@ -2,7 +2,7 @@
 
 ## Daily Log Below
 
-### Day 0: 7 June 2020
+### Day 0: 14 June 2020
 
 **Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (5 Pomodoros) of Data Science related topics (Python, R, Statistics, ML etc) and then post progress here.
 
@@ -10,15 +10,15 @@
 
 **Link to work:** I will be posting my progress at [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 1: 8 June 2020
+### Day 1: 15 June 2020
 
-**Today's Progress**: Went through Standard Python Tutorial : Modules, IO and Exceptions.
+**Today's Progress**: Studying the Udemy Tutorials - Python zero to hero from Jose Portilla. Completed 3 Pomodoros (40 mins each) for Python Statements and Functions along with exercises.
 
-**Thoughts**: I know tutorials don't count here, but still I want to learn Python so be it. And it's a short tutorial so hopefully we will be done in a couple of days. Then only Python Practice and ML learnng. Let's go!
+**Thoughts**: I know tutorials don't count here, but still I want to learn Python so be it. Then only Python Practice and ML learnng. Let's go!
 
 **Link(s) to work**: [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 2: 9 June 2020
+### Day 2:
 
 **Today's Progress**: Complete the Python Tutorial today!! A pat on the back :)
 
