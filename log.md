@@ -18,11 +18,11 @@
 
 **Link(s) to work**: [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 2:
+### Day 2: 16 June 2020
 
-**Today's Progress**: Complete the Python Tutorial today!! A pat on the back :)
+**Today's Progress**: Took whole day but creted a Tic Tac Toe Game version all by myself (in fact 2 different versions). Pat on the back!
 
-**Thoughts**: While not sure what I really learned from it, probably I just got a 'taste' of Python from the Tutorial. But I am glad I was able to finish it since it's been pending for far too long. Now starting ML from tomorrow onwards. Hope it's a great journey overall. Will also be 'really' learning Python by actually coding a bit from tomorrow.
+**Thoughts**: While not sure what I really learned from it, but it was definitely a challenge. I also learned a few vscode tricks. Even debugged my first program in Python. So that's a big plus. But, now let's also starting ML from tomorrow onwards. Hope it's a great journey overall.
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
