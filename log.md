@@ -12,7 +12,11 @@
 
 ### Day 1: 15 June 2020
 
-**Today's Progress**: Studying the Udemy Tutorials - Python zero to hero from Jose Portilla. Completed 3 Pomodoros (40 mins each) for Python Statements and Functions along with exercises.
+* **Sleep/Wake**: 2 am - 9.30 am
+* **Work Start/Finish** : 11 am - 11 pm
+* **Pomodoros Completed** : 3 (40 Mins each)
+
+**Today's Progress**: Studying the Udemy Tutorials - Python zero to hero from Jose Portilla. Did Python Statements and Functions along with exercises.
 
 **Thoughts**: I know tutorials don't count here, but still I want to learn Python so be it. Then only Python Practice and ML learnng. Let's go!
 
@@ -20,13 +24,23 @@
 
 ### Day 2: 16 June 2020
 
+* **Sleep/Wake**: 2 am - 9.30 am
+* **Work Start/Finish** : 10.30 am - 12 am
+* **Pomodoros Completed** : 4 (40 Mins each)
+
 **Today's Progress**: Took whole day but creted a Tic Tac Toe Game version all by myself (in fact 2 different versions). Pat on the back!
 
 **Thoughts**: While not sure what I really learned from it, but it was definitely a challenge. I also learned a few vscode tricks. Even debugged my first program in Python. So that's a big plus. But, now let's also starting ML from tomorrow onwards. Hope it's a great journey overall.
 
+But I also want to mention that I am not able to make the balance between Work and Rest/Home. Not really able to follow the plans that I am making in the calendar. It was probably only 50% today. I must stop work at a designated time and give time to my family or otherwise everyone is gonna suffer.
+
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 3:
+
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
 
 **Today's Progress**: Completed the Central Limit Theorem and some other theorem about the Discreet and Continuous Distributions. Used 7 Pomodors along with 1 Pomodoro to learn Git.
 
@@ -36,6 +50,10 @@
 
 ### Day 4:
 
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
+
 **Today's Progress**: Completed 7 Pomodoros for Statitics (Studied Central Limit Theorem and Hypothesis Testing Theory ) along with 1 Pomodoro of Git. Git is finished.
 
 **Thoughts**: Now that Git is finished, I will primarily focus on studying Statistics for next couple of days (may be just review Git a bit). Afterwards plan is to restart learning Python and finishing that tutorial.
@@ -43,6 +61,10 @@
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 5:
+
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
 
 **Today's Progress**: Completed 5 Pomodoros for Stats (Studied Hypothesis testing formulae). Also studied quite a bit extra but didn't time that through pomodoro today.
 
@@ -52,6 +74,10 @@
 
 ### Day 6:
 
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
+
 **Today's Progress**: Did only 2 Pomodors today but overall studied Stats for over 2 hours (Practiced Hypothesis Testing Numericals).
 
 **Thoughts**: Pomodoro fatigue seems to be setting in. The novelty is wearing off, so I must double down from tomorrow.
@@ -59,6 +85,10 @@
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 7:
+
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
 
 **Today's Progress**: Today was a disappointment just couldn't study anyting today.
 
@@ -68,6 +98,10 @@
 
 ### Day 8:
 
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
+
 **Today's Progress**: Today I completed 5 Pomodoros worth of learning Tableau. Tableau seems interesting but I have just scratched the surface it seems.
 
 **Thoughts**: Wasn't that great a day because I had higher expectation but I will still take it because it was better than yesterday and I completed what's expected of me the least. Will try better tomorrow.
@@ -75,6 +109,10 @@
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 9:
+
+* **Sleep/Wake**: 2 am
+* **Work Start/Finish** : 9.30 am
+* **Pomodoros Completed** : 4 (40 Mins each)
 
 **Today's Progress**: Only studied for 1 Pomodoro about Tableau.
 
