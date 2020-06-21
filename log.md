@@ -36,15 +36,15 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 3:
+### Day 3: 21 June 2020
 
-* **Sleep/Wake**: 2 am
-* **Work Start/Finish** : 9.30 am
-* **Pomodoros Completed** : 4 (40 Mins each)
+* **Sleep/Wake**: 2 am - 8.30 am
+* **Work Start/Finish** : 1.30 pm - 12 am
+* **Pomodoros Completed** : 3 (40 Mins each)
 
-**Today's Progress**: Completed the Central Limit Theorem and some other theorem about the Discreet and Continuous Distributions. Used 7 Pomodors along with 1 Pomodoro to learn Git.
+**Today's Progress**: Learned about Exceptions, Linting and Unit Testing in Python
 
-**Thoughts**: Not as fantastic as yesterday but I can be excused for not being able to concentrate fully today due to anniversary and one of my favorite actors dying. It was just a roller coaster of emotions I had to experience today.
+**Thoughts**: Ideally I should restart this log once more. But I am fed up of restarting this again and again. So I will continue to write in this log now for next 100 days even though its fractured. The idea is to complete 100 days of trying this before doing it for 100 **consecutive** days.
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
