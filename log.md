@@ -12,8 +12,8 @@
 
 ### Day 1: 15 June 2020
 
-* **Sleep/Wake**: 2 am - 9.30 am
-* **Work Start/Finish** : 11 am - 11 pm
+* **Sleep/Wake**: 2 am - 9.30 am (7.5 hours)
+* **Work Start/Finish** : 11 am - 11 pm (12 Hours)
 * **Pomodoros Completed** : 3 (40 Mins each)
 
 **Today's Progress**: Studying the Udemy Tutorials - Python zero to hero from Jose Portilla. Did Python Statements and Functions along with exercises.
@@ -24,8 +24,8 @@
 
 ### Day 2: 16 June 2020
 
-* **Sleep/Wake**: 2 am - 9.30 am
-* **Work Start/Finish** : 10.30 am - 12 am
+* **Sleep/Wake**: 2 am - 9.30 am (7.5 hours)
+* **Work Start/Finish** : 10.30 am - 12 am (13.5 Hours)
 * **Pomodoros Completed** : 4 (40 Mins each)
 
 **Today's Progress**: Took whole day but creted a Tic Tac Toe Game version all by myself (in fact 2 different versions). Pat on the back!
@@ -38,8 +38,8 @@ But I also want to mention that I am not able to make the balance between Work a
 
 ### Day 3: 21 June 2020
 
-* **Sleep/Wake**: 2 am - 8.30 am
-* **Work Start/Finish** : 1.30 pm - 12 am
+* **Sleep/Wake**: 2 am - 8.30 am (6.5 hours)
+* **Work Start/Finish** : 1.30 pm - 12 am (10.5 hours)
 * **Pomodoros Completed** : 3 (40 Mins each)
 
 **Today's Progress**: Learned about Exceptions, Linting and Unit Testing in Python
@@ -48,15 +48,15 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 4:
+### Day 4: 22 June 2020
 
-* **Sleep/Wake**: 2 am
-* **Work Start/Finish** : 9.30 am
-* **Pomodoros Completed** : 4 (40 Mins each)
+* **Sleep/Wake**: 2.15 am - 9.15 am (7 Hours)
+* **Work Start/Finish** : 9.30 am - 12 am (15.5 Hours)
+* **Pomodoros Completed** : 0 (40 Mins each)
 
-**Today's Progress**: Completed 7 Pomodoros for Statitics (Studied Central Limit Theorem and Hypothesis Testing Theory ) along with 1 Pomodoro of Git. Git is finished.
+**Today's Progress**: Studied Generators and Decorators in Python.
 
-**Thoughts**: Now that Git is finished, I will primarily focus on studying Statistics for next couple of days (may be just review Git a bit). Afterwards plan is to restart learning Python and finishing that tutorial.
+**Thoughts**: Whole day was busy in office work but still made time to learn a little bit of Python. Just about half of what I had planned yesterday, but it still counts.
 
 **Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
 
