@@ -2,25 +2,25 @@
 
 ## Daily Log Below
 
-### Day 0: 08/05/2021
+### Day 0: 14 June 2020
 
-**Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (5 Pomodoros) for Web Devlopment related topics. This includes HTML/CSS/JS and UI5.
+**Today's Progress**: From tomorrow onwards, for next 100 days, I commit to do 2 hours study (5 Pomodoros) of Data Science related topics (Python, R, Statistics, ML etc) and then post progress here.
 
-**Thoughts**:
+**Thoughts**: I have been studying DS on and off for past 3 months. But haven't been able to put my body mind and soul to it. It's time to quit this amateurish stance and really start learning. I have tried this challenge thrice earlier but failed. Hope I am successful this time. I also understand that this is not really the main aim of this challenge (100 days of *code*). But if I am able to study at least 2 hours daily for next 100 days, then I will have the amount of knowledge to do *code* challenge for next 100 days. If you are reading this, wish me luck!
 
-**Link to work:** I will be posting my progress at private repo [WebDev](https://github.com/codeRSH/WebDev )
+**Link to work:** I will be posting my progress at [Data Science](https://github.com/codeRSH/Data-Science )
 
-### Day 1: 09/05/2021
+### Day 1: 15 June 2020
 
-* **Sleep/Wake**: 12.30 am - 8.30 am (8 hours)
-* **Work Start/Finish** : 6 pm - 8 pm (2 Hours)
-* **Pomodoros Completed** : 0 (45 Mins each)
+* **Sleep/Wake**: 2 am - 9.30 am (7.5 hours)
+* **Work Start/Finish** : 11 am - 11 pm (12 Hours)
+* **Pomodoros Completed** : 3 (40 Mins each)
 
-**Today's Progress**: Studying the Udemy Tutorials - Build Responsive Real World Websites with HTML5 and CSS3  from Jonas Schmedtmann. Revised HTML Basics.
+**Today's Progress**: Studying the Udemy Tutorials - Python zero to hero from Jose Portilla. Did Python Statements and Functions along with exercises.
 
-**Thoughts**: I know tutorials don't count here, but still I want to learn HTML5 from groundup, so be it. I want to learn these technlogies to make a better website. So let's go.
+**Thoughts**: I know tutorials don't count here, but still I want to learn Python so be it. Then only Python Practice and ML learnng. Let's go!
 
-**Link(s) to work**: [WebDev](https://github.com/codeRSH/WebDev )
+**Link(s) to work**: [Data Science](https://github.com/codeRSH/Data-Science )
 
 ### Day 2: 16 June 2020
 
