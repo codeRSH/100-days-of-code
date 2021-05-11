@@ -13,7 +13,7 @@
 ### Day 1: 09/05/2021
 
 * **Sleep/Wake**: 12.30 am - 8.30 am (8 hours)
-* **Work Start/Finish** : 6 pm - 8 pm (2 Hours)
+* **Work Start/Finish** : 6 pm - 8 pm
 * **Pomodoros Completed** : 0 (45 Mins each)
 
 **Today's Progress**: Studying the Udemy Tutorials - Build Responsive Real World Websites with HTML5 and CSS3  from Jonas Schmedtmann. Revised HTML Basics.
@@ -22,31 +22,27 @@
 
 **Link(s) to work**: [WebDev](https://github.com/codeRSH/WebDev )
 
-### Day 2: 16 June 2020
+### Day 2: 10/05/2021
 
 * **Sleep/Wake**: 2 am - 9.30 am (7.5 hours)
-* **Work Start/Finish** : 10.30 am - 12 am (13.5 Hours)
-* **Pomodoros Completed** : 4 (40 Mins each)
+* **Work Start/Finish** : 10.30 am - 9 pm
+* **Pomodoros Completed** : 3 (45 Mins each)
 
-**Today's Progress**: Took whole day but creted a Tic Tac Toe Game version all by myself (in fact 2 different versions). Pat on the back!
+**Today's Progress**: Made progress on the HTML5/CSS Udemy Course. Completed Webdesign Section (almost!)
 
-**Thoughts**: While not sure what I really learned from it, but it was definitely a challenge. I also learned a few vscode tricks. Even debugged my first program in Python. So that's a big plus. But, now let's also starting ML from tomorrow onwards. Hope it's a great journey overall.
+**Thoughts**: Didn't make as much progress as I would have liked but it was still progress.
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
 
-But I also want to mention that I am not able to make the balance between Work and Rest/Home. Not really able to follow the plans that I am making in the calendar. It was probably only 50% today. I must stop work at a designated time and give time to my family or otherwise everyone is gonna suffer.
+### Day 3: 11/05/2021
 
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+* **Sleep/Wake**: 12 am - 7.30 am (7.5 hours)
+* **Work Start/Finish** : 7.30 am - 12 am (10.5 hours)
+* **Pomodoros Completed** : 3 (45 Mins each)
 
-### Day 3: 21 June 2020
+**Today's Progress**: Learned about the steps to design Website. And also started Omnifood project by following the Tutorial.
 
-* **Sleep/Wake**: 2 am - 8.30 am (6.5 hours)
-* **Work Start/Finish** : 1.30 pm - 12 am (10.5 hours)
-* **Pomodoros Completed** : 3 (40 Mins each)
-
-**Today's Progress**: Learned about Exceptions, Linting and Unit Testing in Python
-
-**Thoughts**: Ideally I should restart this log once more. But I am fed up of restarting this again and again. So I will continue to write in this log now for next 100 days even though its fractured. The idea is to complete 100 days of trying this before doing it for 100 **consecutive** days.
-
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+**Thoughts**: Although I made some progress again today, but it's coming at the cost of other office work which is not ideal. The internal and external distractions and interruptions are not making me go further. Need to be more proactive.
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
 
 ### Day 4: 22 June 2020
 
@@ -58,7 +54,7 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Thoughts**: Whole day was busy in office work but still made time to learn a little bit of Python. Just about half of what I had planned yesterday, but it still counts.
 
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
 
 ### Day 5:
 
@@ -70,7 +66,7 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Thoughts**: While making fairly good progress, I feel that I am just palying catchup by starting later in the day and thus having to study at the end of the day quite late at night sometimes. I will try to start earliy fromo tomorrow. Let's see how it goes.
 
-**Link(s) to work**: [Data Science](https://github.com/codeRSH/Data-Science )
+**Link(s) to work**: [WebDev](https://github.com/codeRSH/WebDev )
 
 ### Day 6:
 
@@ -82,7 +78,7 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Thoughts**: Pomodoro fatigue seems to be setting in. The novelty is wearing off, so I must double down from tomorrow.
 
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
 
 ### Day 7:
 
@@ -94,7 +90,7 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Thoughts**: Just felt tired throught the day but I am not letting that be my 'break' in this chain. I will be back tomorrow stronger.
 
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
 
 ### Day 8:
 
@@ -118,4 +114,4 @@ But I also want to mention that I am not able to make the balance between Work a
 
 **Thoughts**: Really disappointed. Have decided to reset this streak and start from Day 1 tomorrow.
 
-**Link(s) to work**:  [Data Science](https://github.com/codeRSH/Data-Science )
+**Link(s) to work**:  [WebDev](https://github.com/codeRSH/WebDev )
